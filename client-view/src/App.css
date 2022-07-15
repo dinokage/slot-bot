@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+.lammidi{
+  font-size: 100px;
+  background-color: black;
+  height: 90px;
+  display: flex;
+}
